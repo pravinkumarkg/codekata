@@ -23,7 +23,7 @@ int main()
    	}
    	if(flag==0)
    	{
-   		cout<<' '<<i;
+   		cout<<i<<' ';
    		
    	}
    }
